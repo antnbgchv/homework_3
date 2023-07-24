@@ -15,6 +15,6 @@ public class YandexTest {
 
     @Test
     void simpleYandexSearchTest() {
-
+        //TODO IMPLEMENT!
     }
 }
